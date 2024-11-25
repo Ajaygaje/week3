@@ -1,6 +1,6 @@
 public class Prime {
     public static void main(String[] args) {
-        int num = 29; // Example number to check
+        int num = 5; // Example number to check
         boolean isPrime = true;
 
         for (int i = 2; i <= num / 2; i++) {
